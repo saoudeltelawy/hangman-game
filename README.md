@@ -20,10 +20,12 @@ This is a Python implementation of the classic word-guessing game, Hangman. Play
    cd hangman-python-game
 
 2. **Ensure Python 3 is installed**:
-python3 --version
+   ```bash
+   python3 --version
 
-3. **Run the Game**:
-python hangman_game.py
+4. **Run the Game**:
+   ```bash
+   python hangman_game.py
 
 
 ## **To Do**
